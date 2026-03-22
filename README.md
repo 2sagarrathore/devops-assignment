@@ -1,4 +1,4 @@
-# DevOps Assignment – TechCorp Development Environment Setup
+# TechCorp Development Environment Setup
 
 **Organization:** TechCorp
 **Role:** Fresher DevOps Engineer (Assisting Rahul – Senior DevOps Engineer)
