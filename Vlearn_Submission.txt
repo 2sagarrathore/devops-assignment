@@ -9,7 +9,11 @@ GitHub Repository Link:
 https://github.com/2sagarrathore/devops-assignment
 
 Repository Contents:
-- task1_monitoring.sh         : System Monitoring Setup
-- task2_user_management.sh    : User Management and Access Control
-- task3_backup.sh             : Backup Configuration for Web Servers
+- task1_monitoring.sh         : System Monitoring Setup Script
+- task2_user_management.sh    : User Management and Access Control Script
+- task3_backup.sh             : Backup Configuration for Web Servers Script
 - DevOps_Assignment_Report.docx : Full Implementation Report
+- task1_output.txt            : Terminal output showing Task 1 execution (system monitoring report)
+- task2_output.txt            : Terminal output showing Task 2 execution (user management log)
+- task3_output.txt            : Backup verification log for Task 3 (as required in deliverables)
+- README.md                   : Project overview and usage instructions
