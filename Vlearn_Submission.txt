@@ -1,0 +1,15 @@
+DevOps Assignment Submission
+==============================
+
+Student Name  : Sagar Rathore
+Email         : 2sagarrathore@gmail.com
+Assignment    : Development Environment Setup (TechCorp)
+
+GitHub Repository Link:
+https://github.com/2sagarrathore/devops-assignment
+
+Repository Contents:
+- task1_monitoring.sh         : System Monitoring Setup
+- task2_user_management.sh    : User Management and Access Control
+- task3_backup.sh             : Backup Configuration for Web Servers
+- DevOps_Assignment_Report.docx : Full Implementation Report
